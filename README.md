@@ -30,4 +30,4 @@
 
 ---
 
-<sub>主业在私有仓库里，这里只是门面。有问题找 <a href="https://github.com/lyj-cooyun">@lyj-cooyun</a>。</sub>
+<sub>主业在私有仓库里，这里只是门面。</sub>
